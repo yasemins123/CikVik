@@ -1,4 +1,4 @@
-name: Build AstroROM
+name: Build ROM
 run-name: Building ROM > ${{ inputs.device }}
 on:
   workflow_dispatch:
