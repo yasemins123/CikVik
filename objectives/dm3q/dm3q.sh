@@ -26,12 +26,12 @@ PLATFORM="sd_8550"
 
 # Stock firmware details for download
 STOCK_MODEL="SM-S918B"
-STOCK_CSC="EUX"
+STOCK_CSC="TUR"
 STOCK_IMEI="350196551234562"
 
 # Source firmware details for download
 MODEL="SM-S918B"
-CSC="EUX"
+CSC="TUR"
 IMEI="350196551234562"
 
 # Extra firmware (Optional) details for download
